@@ -44,7 +44,7 @@ slowprint(''' \033[93m
 [21] host
 [22] dnsutils
 [23] coreutils ''')
-slowprint('''\033[96m
+slowprint('''\033[93m
 This Command for access Storage in Termux
 [00] termux-setup-storage''')
 print ("                                            ")
