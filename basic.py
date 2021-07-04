@@ -17,7 +17,7 @@ print (''' \033[95m
 +--------------------------------------+
  Install All Basic Packages |
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-|  B😼y Pyae Sone Hmoo😼 |
+|i am not programmer All tool modified  |
 **************************************''')
 
 slowprint(''' \033[93m
